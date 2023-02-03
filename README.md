@@ -3,7 +3,7 @@
 
 ## Project Members
 Name | Role
----- | ----
+---- | ----------------
 Joyre Bohanon | Team Lead
 Quinn Clark | Documentation/Test Engineer
 Nicholas Fulton | Software Developer/Engineer
