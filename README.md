@@ -31,7 +31,8 @@ The goal of this project is to develop a tool that can help us detect when we or
 </table>
 
 ## Course Information
-
+<a href="https://www.kennesaw.edu/">Link to Kennesaaw State University</a> <br>
+<a href="https://ccse.kennesaw.edu/cs/index.php">Link to KSU CS Department</a> <br>
 
 ## Links
 
