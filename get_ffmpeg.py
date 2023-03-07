@@ -21,7 +21,7 @@ class ffmpeg_automation:
                 continue
             else:
                 self.remoteFileList.append(curr_dir+filename)
-        self.remoteFileList.remove(curr_dir+'.DS_Store')
+        #self.remoteFileList.remove(curr_dir+'.DS_Store')
     
     def runCommand(self): #iteratively run command for all files need to be converted
         self.buildList()
