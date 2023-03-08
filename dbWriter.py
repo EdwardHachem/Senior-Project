@@ -1,4 +1,4 @@
-import mariadb
+import mysql.connector
 import os
 import sys
 class writeData:
@@ -35,19 +35,20 @@ if __name__ == "__main__":
     myData =str(configLines[4])
          
     try:
-        conn = mariadb.connect(
+        conn = mysql.connector.connect(
             user=myUser,
             password=myPass,
             host=myHost,
             port=myPort,
             database=myData
         )
-    except mariadb.Error as e:
+    except mysql.connector.Error as e:
         print(f"Error connecting to MariaDB Platform: {e}")
         sys.exit(1)
     curr = conn.cursor()
     myWriter = writeData(curr)
     myWriter.writeData()
+    
         
 
     
