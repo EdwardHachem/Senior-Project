@@ -28,11 +28,11 @@ class writeData:
 if __name__ == "__main__":
     configFile = open('/home/ubuntu/dbLogin.txt','r')
     configLines = configFile.readlines()
-    myUser =configLines[0]
-    myPass =configLines[1]
-    myHost =configLines[2]
+    myUser =str(configLines[0])
+    myPass =str(configLines[1])
+    myHost =str(configLines[2])
     myPort =int(configLines[3])
-    myData =configLines[4]
+    myData =str(configLines[4])
          
     try:
         conn = mariadb.connect(
