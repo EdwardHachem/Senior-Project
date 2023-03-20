@@ -39,7 +39,7 @@ The goal of this project is to develop a tool that can help us detect when we or
 Category | Link
 -------- | ----
 Milestone Reports | <a href="https://docs.google.com/document/d/1QgM_If5CH45ovhx3BVx7RKLc0QPgc4zamQHZh5Pw8Gs/edit?usp=sharing">Milestone Reports</a> 
-Prototype | <a href="͎͎https://1drv.ms/p/s!AlhwGXOL6qHi9V2exFY8EYEo9VK6?e=annH86">Prototype Slides</a>
+Prototype | <a href="͎͎https://onedrive.live.com/view.aspx?resid=E2A1EA8B73197058!15069&ithint=file%2cpptx&authkey=!AJ7EVjwRgSj1Uro">Prototype Slides</a>
 Gantt Chart | <a href="https://1drv.ms/x/s!AlhwGXOL6qHi1gSlkU5iC70rxprG?e=mcYmU6">Link to Chart</a>
 Documentation | <a href="https://docs.google.com/document/d/1JW1Fetu6WcCkdaxrH1PxtGGMFRXtMhi-_IK0uG-8sWE/edit?usp=sharing">Documentation</a>
 Demo Site | TBD
