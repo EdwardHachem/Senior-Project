@@ -39,7 +39,7 @@ The goal of this project is to develop a tool that can help us detect when we or
 Category | Link
 -------- | ----
 Milestone Reports | <a href="https://docs.google.com/document/d/1QgM_If5CH45ovhx3BVx7RKLc0QPgc4zamQHZh5Pw8Gs/edit?usp=sharing">Milestone Reports</a> 
-Prototype | <a href="(https://kennesawedu-my.sharepoint.com/:p:/g/personal/jbohano1_students_kennesaw_edu/ERtGPHObUqRBihxYmE85mzABo9Xpwl8pRsDH5EAXGY5zNA?e=IMVJoL)">Prototype Slides</a>
+Prototype | <a href="Verbal Aggression Detection_Prototype_Pres.pptx">Prototype Slides</a>
 Gantt Chart | <a href="https://1drv.ms/x/s!AlhwGXOL6qHi1gSlkU5iC70rxprG?e=mcYmU6">Link to Chart</a>
 Documentation | <a href="https://docs.google.com/document/d/1JW1Fetu6WcCkdaxrH1PxtGGMFRXtMhi-_IK0uG-8sWE/edit?usp=sharing">Documentation</a>
 Demo Site | TBD
