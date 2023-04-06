@@ -1,4 +1,4 @@
-# Senior Project Spring 2023
+# SP2 Data Mining and AI Audio Agression Detection
 ## Overview
 <body>
   Abusive/toxic relationships are the root of many problems our society faces today. Whether it’s physical, emotional, mental, or verbal, we have a responsibility to our communities and society at large to protect ourselves and others from unhealthy relationships. Integrating research-backed indicators of abuse and technology is a popular and growing subset of artificial intelligence and machine learning. The team will create a web scraper to mine videos of conversations from youtube. A tool will be created in python to listen to the conversations and mark if the audio has indicators of verbal abuse or aggression. The results will be stored in a database on AWS for pattern analysis.
