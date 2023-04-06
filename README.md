@@ -45,18 +45,11 @@ Documentation | <a href="https://docs.google.com/document/d/1JW1Fetu6WcCkdaxrH1P
 Demo Site | TBD
 
 ## Member Photos
-<div style="display: inline-block">
   <img src="https://github.com/EdwardHachem/Senior-Project/blob/060ff2135c45c3ca0083b69bd7cca031b04e7a99/EdwardHeadshot.png" alt="Alt Text 1" width="150" height="200">
-</div>
-<div style="display: inline-block">
   <img src="https://github.com/EdwardHachem/Senior-Project/blob/8ac66fafa64561ba4afa182b0ef37a514166857d/JoyreHeadshot.jpeg" alt="Alt Text 2" width="150" height="200">
-</div>
-<div style="display: inline-block">
   <img src="https://github.com/EdwardHachem/Senior-Project/blob/8ac66fafa64561ba4afa182b0ef37a514166857d/NickHeadshot.jpeg" alt="Alt Text 3" width="150" height="200">
-</div>
-<div style="display: inline-block">
   <img src="https://github.com/EdwardHachem/Senior-Project/blob/8ac66fafa64561ba4afa182b0ef37a514166857d/QuinnHeadshot.png" alt="Alt Text 4" width="150" height="200">
-</div>
+
 
 
 
