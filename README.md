@@ -48,15 +48,15 @@ Demo Site | TBD
 <table>
   <tr>
     <td>Joyre Bohanon</td>
-    <td><img src="https://github.com/EdwardHachem/Senior-Project/blob/8ac66fafa64561ba4afa182b0ef37a514166857d/JoyreHeadshot.jpeg" alt="Alt Text 2" width="150" height="200"></td>
+    <td><img src="JoyreHeadshot.jpeg" alt="Alt Text 2" width="150" height="200"></td>
   </tr>
   <tr>
     <td>Quinn Clark</td>
-    <td><img src="https://github.com/EdwardHachem/Senior-Project/blob/8ac66fafa64561ba4afa182b0ef37a514166857d/QuinnHeadshot.png" alt="Alt Text 4" width="150" height="200"></td>
+    <td><img src="QuinnHeadshot.png" alt="Alt Text 4" width="150" height="200"></td>
   </tr>
   <tr>
     <td>Nicholas Fulton</td>
-    <td><img src="https://github.com/EdwardHachem/Senior-Project/blob/8ac66fafa64561ba4afa182b0ef37a514166857d/NickHeadshot.jpeg" alt="Alt Text 3" width="150" height="200"></td>
+    <td><img src="NickHeadshot.jpeg" alt="Alt Text 3" width="150" height="200"></td>
   </tr>
   <tr>
     <td>Edward Hachem</td>
