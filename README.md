@@ -38,7 +38,7 @@ The goal of this project is to develop a tool that can help us detect when we or
 
 Category | Link
 -------- | ----
-Project Report | <a href="">Project Report</a> 
+Project Report | <a href="./M2-DraftFinalProjectReport.docx.pdf">Project Report</a> 
 Prototype | <a href="https://onedrive.live.com/view.aspx?resid=E2A1EA8B73197058!15069&ithint=file%2cpptx&authkey=!AJ7EVjwRgSj1Uro">Prototype Slides</a>
 Video Demo | <a href="https://youtu.be/9Amha6ldZOI">Link to Video</a>
 
