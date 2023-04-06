@@ -44,3 +44,6 @@ Gantt Chart | <a href="https://1drv.ms/x/s!AlhwGXOL6qHi1gSlkU5iC70rxprG?e=mcYmU6
 Documentation | <a href="https://docs.google.com/document/d/1JW1Fetu6WcCkdaxrH1PxtGGMFRXtMhi-_IK0uG-8sWE/edit?usp=sharing">Documentation</a>
 Demo Site | TBD
 
+## Member Photos
+![Alt Text](https://github.com/EdwardHachem/Senior-Project/blob/cd3188942fe3f86fe0e1313b5e402c0ddeed28a3/EdwardHeadshot.png)
+
