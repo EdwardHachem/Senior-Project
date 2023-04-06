@@ -45,6 +45,6 @@ Documentation | <a href="https://docs.google.com/document/d/1JW1Fetu6WcCkdaxrH1P
 Demo Site | TBD
 
 ## Member Photos
-<img src="https://github.com/EdwardHachem/Senior-Project/blob/060ff2135c45c3ca0083b69bd7cca031b04e7a99/EdwardHeadshot.png" alt="Alt Text" width="200" height="100">
+<img src="https://github.com/EdwardHachem/Senior-Project/blob/060ff2135c45c3ca0083b69bd7cca031b04e7a99/EdwardHeadshot.png" alt="Alt Text" width="200" height="200">
 
 
