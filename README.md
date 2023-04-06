@@ -60,7 +60,7 @@ Demo Site | TBD
   </tr>
   <tr>
     <td>Edward Hachem</td>
-    <td><img src="https://github.com/EdwardHachem/Senior-Project/blob/060ff2135c45c3ca0083b69bd7cca031b04e7a99/EdwardHeadshot.png" alt="Alt Text 1" width="150" height="200"></td>
+    <td><img src="EdwardHeadshot.png" alt="Alt Text 1" width="150" height="200"></td>
   </tr>
 </table>
 
